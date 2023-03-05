@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:22.04
 LABEL maintainer="adi.nemer@gmail.com"
 ENV REFRESHED_AT 2023-03-05
 RUN apt update
